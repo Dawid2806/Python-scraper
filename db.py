@@ -1,13 +1,7 @@
 import pymysql
 import pymysql.cursors
 
-database_config = {
-    'database': 'serwer240551_scaper',
-    'user': 'serwer240551',
-    'password': '0hf4KiN>',
-    'host': 'sql113.lh.pl',
-    'port': 3306,
-}
+
 
 
 def show_tables():
